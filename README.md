@@ -50,8 +50,8 @@ Fontes: Bricolage Grotesque (títulos) e DM Sans (texto). O portal animado do to
 ## Como rodar
 
 ```bash
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPO.git
-cd NOME-DO-REPO
+git clone https://github.com/SamuelDJE/rickmorty-portal.git
+cd rickmorty-portal
 npm install
 npm run dev
 ```
@@ -64,4 +64,4 @@ Abra `http://localhost:5173`. Não precisa de variáveis de ambiente.
 
 ## Autor
 
-Seu Nome
+Samuel Santos
